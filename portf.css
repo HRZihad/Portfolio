@@ -1,0 +1,179 @@
+body{
+    margin: 0%;
+    background-color: beige;
+}
+
+.section1{
+    width: 100%;
+    height: 500px;
+}
+
+.section1 .menu{
+	width: 100%;
+	height: 50px;
+}
+.section1 .menu ul{
+	margin: 0px;
+	padding: 20px;
+	list-style-type: none;
+}
+.section1 .menu ul li{
+	float: right;
+	width: 20%;
+}
+.section1 .menu ul li a{
+	background-color: blanchedalmond;
+	text-decoration: none;
+    border: 1px solid white;
+	text-align: center;
+	padding: 10px 5px;
+	transition: background-color 5s;
+}
+.section1 .menu ul li a:hover{
+	background-color: white;
+	color: yellow;
+	border-radius: 50px 50px 50px 50px;
+}
+
+.section1 .sec2{
+    padding-top: 80px;
+    margin-left: 250px;
+    
+}
+
+.section1 .sec2 .button1{
+    float: left;
+}
+.section1 .sec2 .button2{
+    float: left;
+    margin-left: 25px;
+    
+    
+}
+.sec3{
+    width: 100%;
+    height: 100px;
+}
+.sec4{
+    width: 70%;
+    margin: auto;
+    height: 350px;
+    background-color: aquamarine;
+    padding: 70px 50px 60px 50px;
+}
+.sec4 h2{
+    text-align: center;
+}
+.sec4 p{
+    text-align: center;
+}
+.section1 .pic{
+    float: right;
+    margin-right: 250px;
+    margin-bottom: auto;
+}
+.sec6{
+    width: 100%;
+    padding-top: 5px;
+    
+}
+.sec6 p{
+    text-align: center;
+}
+.skill .js{
+    float: left;
+    width: 12%;
+    height: 255px;
+    background-color: antiquewhite;
+    margin-left: 40px;
+    padding: 20px 45px 15px 15px;
+    
+}
+.skill .react{
+    float: left;
+    width: 12%;
+    height: 255px;
+    background-color: antiquewhite;
+    margin-left: 105px;
+    padding: 20px 45px 15px 15px;
+    
+}
+    
+.skill .node{
+    float: left;
+    width: 12%;
+    height: 255px;
+    background-color: antiquewhite;
+    margin-left: 105px;
+    
+    padding: 20px 45px 15px 15px;
+    
+}
+
+.skill .mongo{
+    float: left;
+    width: 12%;
+    height: 255px;
+    background-color: antiquewhite;
+    
+    margin-left: 105px;
+    padding: 20px 45px 15px 15px;
+}
+.skill{
+    width: 65%;
+    height: 300px;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 20px 0px 9px 0px;
+   
+}
+.resume{
+    width: 100%;
+    height: 700px;
+    background-color: blanchedalmond;
+}
+.resume .inside{
+    float: left;
+    text-decoration: none;
+    width: 400px;
+    margin-left: 500px;
+    
+}
+.resume .inside1{
+    float: left;
+    text-decoration: none;
+    width: 400px;
+    margin-left: 100px;
+    
+}
+.spa{
+    
+    width: 100%;
+    height: 50px;
+    
+}
+.downloadbutton {
+    text-align: center;
+    height: 40px;
+    
+}
+.lastpart{
+    background-color: rgba(152, 241, 210, 0.575);
+    height: 400px;
+    width: 100%;
+    
+}
+.lastpart .lets{
+    float: left;
+    width: 500px;
+    margin-left: 500px;
+    margin-top: 70px;
+}
+.lastpart .message{
+    float: left;
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+
